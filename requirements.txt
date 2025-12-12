@@ -1,0 +1,6 @@
+# Untuk testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Untuk formatting (opsional)
+black==23.7.0

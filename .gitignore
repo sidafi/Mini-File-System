@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test artifacts
+.pytest_cache/
+.coverage
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Application data file
+# File ini berisi state dari sistem file dan dibuat oleh pengguna,
+# tidak seharusnya menjadi bagian dari kode sumber.
+minifs.dat
+
+# OS-specific files
+.DS_Store
+Thumbs.db
